@@ -1,5 +1,85 @@
+* {
+  font-family: 'Rokkitt', serif;
+}
 
+body {
+  background-image: URL('leaves.jpg');
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: #20C080;
+}
 
 p {
-  color: red;
+  color: #A33105;
 }
+
+h1, h2 {
+  color: #D82A02;
+}
+
+#search_form, #profiles {
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+  text-align: center;
+}
+
+#fetch_github_profile {
+  font-size: 1.5em;
+  border: 2px #F37710 solid;
+  padding: 1.5%;
+  color: white;
+  background-color: #F37710;
+}
+
+section#profiles {
+  font-size: 2em;
+  color: blue;
+  margin-top: 5%;
+  width: 907px;
+}
+
+#search_form {
+  margin-top: 10%;
+  padding: 4%;
+  border-width: 0;
+  background: rgba(240, 165, 20, 0.5);
+}
+
+#profile_name {
+  font-size: 1.5em;
+  height: 35px;
+  width: 600px;
+  padding: 1%;
+}
+
+body article {
+  background: rgba(244, 192, 47, 0.5);
+  text-align: left;
+  padding: 4%;
+  margin-bottom: 5%;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+
+div.image, div.words {
+  display: inline-block;
+  position: relative;
+}
+
+div.words {
+  left: 5%;
+  height: 100px;
+  vertical-align: top;
+}
+
+
+
