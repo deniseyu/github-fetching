@@ -1,7 +1,35 @@
-Week 6 Task: Create an HTML page that uses jQuery with JSON and the Github API to query Github user information.
+# Github Profile Fetcher
 
-Built using Handlebars templates.
+Week 6 Task: Create a single-page app that uses jQuery and the Github open API to render Github avatars and information.
 
-Preview:
+## Preview
 
-<img src='screenshot.png'> 
+![github-fetcher](https://raw.github.com/deniseyu/github-fetching/master/public/screenshot.png)
+
+## To Use
+
+Clone the repository:
+```
+git clone git@github.com:deniseyu/github-fetching.git
+cd github-fetching
+```
+
+## Technologies
+
+* Javascript
+* jQuery
+* Handlebars
+* AJAX
+* HTML5
+* CSS3
+
+## Learning Objectives
+
+* Write cleaner and more maintainable frontend code with the help of Javascript templating libraries
+* Practice making AJAX calls with jQuery
+
+## To Do
+
+* Mount index page on an ExpressJS server
+* Organize files
+* Implement testing for successful AJAX response
