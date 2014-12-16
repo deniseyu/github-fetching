@@ -4,7 +4,7 @@ Week 6 Task: Create a single-page app that uses jQuery and the Github open API t
 
 ## Preview
 
-![github-fetcher](https://raw.github.com/deniseyu/github-fetching/master/public/screenshot.png)
+![github-fetcher](https://raw.github.com/deniseyu/github-fetching/master/screenshot.png)
 
 ## To Use
 
